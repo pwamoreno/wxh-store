@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+:root{
+  height: 100%;
+}
+
+.scroll{
+  overflow: hidden;
+  /* mask: linear-gradient(to right, transparent,black(128px),black(calc(100%-200px)), transparent(100%)); */
+  /* mask: linear-gradient(90deg, transparent,black 128px, black calc(100%-200px), transparent 100%); */
+  mask: linear-gradient(90deg, transparent,white 20%, white 80%, transparent);
+}
+
+.scroll .loop-scroll{
+  width: fit-content;
+  flex-wrap: nowrap;
+}
