@@ -74,3 +74,5 @@ const updateSignedInUser = (updatedUser: UserType) => {
 };
 
 export default Wishlist;
+
+export const dynamic = "force-dynamic"
