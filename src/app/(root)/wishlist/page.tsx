@@ -11,7 +11,7 @@ const Wishlist = () => {
 
   const [loading, setLoading] = useState(true);
   const [signedInUser, setSignedInUser] = useState<UserType | null>(null);
-  const [wishlist, setWishlist] = useState<ProductType[]>(null);
+  const [wishlist, setWishlist] = useState<ProductType[] | null>(null);
 
   const getUser = async () => {
     try {
