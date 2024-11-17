@@ -1,3 +1,5 @@
+/* eslint-disable  @typescript-eslint/no-explicit-any */
+
 import ProductCard from '@/components/ProductCard'
 import { getSearchedProducts } from '@/lib/actions/action'
 import React from 'react'

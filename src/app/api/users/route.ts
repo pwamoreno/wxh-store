@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 import User from "@/lib/models/User";
 import { connectToDB } from "@/lib/mongoDB";
 import { auth } from "@clerk/nextjs/server";
@@ -27,3 +29,5 @@ export const GET = async(req: NextRequest) => {
         return new NextResponse("Internal Server Error", { status: 500 })
     }
 }
+
+export const dynamic = "force-dynamic"
