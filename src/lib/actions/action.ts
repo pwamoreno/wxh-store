@@ -1,10 +1,14 @@
 export const getCollections = async() => {
-    const collections = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/collections`)
+    const collections = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/collections`, {
+        cache: "no-store",
+    })
     return await collections.json()
 }
 
 export const getCollectionDetails = async(collectionId: string) => {
-    const collection = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/collections/${collectionId}`)
+    const collection = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/collections/${collectionId}`, {
+        cache: "no-store"
+    })
     return await collection.json()
 }
 
