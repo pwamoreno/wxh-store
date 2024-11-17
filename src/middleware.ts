@@ -5,9 +5,11 @@ const isPublic = createRouteMatcher([
   "/:path*",
 ])
 
-export default clerkMiddleware((auth, request) => {
+export default clerkMiddleware(async(auth, request) => {
   if(!isPublic(request)){
-    auth().protect()
+    // const authObject = await auth()
+    // authObject.protect()
+    return;
   }
 });
 
