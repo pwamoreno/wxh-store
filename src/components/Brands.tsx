@@ -34,7 +34,7 @@ const Brands = () => {
   }, []);
 
   return (
-    <div className="">
+    <div className="pt-8">
       <h1 className="text-heading2-bold text-center pb-5">
         Brands we have worked with
       </h1>
@@ -82,7 +82,7 @@ const Brands = () => {
       <div className="flex items-center justify-center py-8">
         <div className="max-w-screen-md md:w-2xl">
           <p className="px-10">
-            <strong>Wanni</strong> and <strong>Handi</strong> have swiftly
+            <strong>WannixHandi</strong> have swiftly
             established themselves as prominent figures in the music and
             entertainment industry, thanks to their unique sound and electric
             performances. Their dynamic presence has caught the attention of
