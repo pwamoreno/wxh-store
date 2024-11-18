@@ -20,7 +20,7 @@ const About = () => {
           <Link href="/about" className="border border-black p-3 rounded-lg hover:bg-black hover:text-white">Read More</Link>
         </div>
         <Image
-          src="/wxh6.jpg"
+          src="/wxh6.JPG"
           alt="wannixhandi"
           width={350}
           height={150}
