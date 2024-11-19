@@ -10,6 +10,7 @@ export default function Home() {
       <SignedOut>
         {/* <SignInButton /> */}
         <HomeDetails />
+        <About />
         <Brands />
       </SignedOut>
       <SignedIn>
