@@ -12,6 +12,7 @@ export default function Home() {
         <HomeDetails />
         <About />
         <Brands />
+        <Footer />
       </SignedOut>
       <SignedIn>
         <HomeDetails />
