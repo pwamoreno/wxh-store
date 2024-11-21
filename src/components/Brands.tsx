@@ -82,38 +82,32 @@ const Brands = () => {
       <div className="flex items-center justify-center py-8">
         <div className="max-w-screen-md md:w-2xl">
           <p className="px-10">
-            <strong>WannixHandi</strong> have swiftly
-            established themselves as prominent figures in the music and
-            entertainment industry, thanks to their unique sound and electric
-            performances. Their dynamic presence has caught the attention of
-            leading brands, resulting in exciting collaborations that showcase
-            their talent and charisma.{" "}
-            <strong>
-              <em>Heineken, Desperados, Martell, Budweiser, and Guinness</em>{" "}
-            </strong>
-            have all recognized the vibrant energy that these twin sisters bring
-            to the table, making them perfect ambassadors for their brands.
-          </p>
-          <p className="pt-3 px-10">
-            With <strong><em>Spotify</em></strong>, Wanni and Handi have taken their love for music to the
-            next level, curating playlists that resonate with their fans while
-            promoting emerging artists. Their partnership allows them to connect
-            with a broader audience, sharing their passion for music while
-            highlighting the sounds that inspire them. This collaboration not
-            only solidifies their status as influential DJs but also enhances
-            their role as tastemakers in the industry.
-          </p>
-          <p className="pt-3 px-10">
-            At{" "}
-            <strong>
-              <em>Femme Fest</em>
-            </strong>
-            , Wanni and Handi have embraced their platform to champion women in
-            music, using their influence to empower and uplift fellow female
-            artists. Their involvement in such initiatives reflects their
-            commitment to promoting diversity and inclusivity within the
-            entertainment landscape.
-          </p>
+            Wanni X Handi have rapidly established themselves as influential
+            figures in the global music and entertainment industry, renowned for
+            their unique sound and electrifying performances. Their exceptional
+            talent and dynamic stage presence have captured the attention of
+            leading brands, resulting in high-profile collaborations that
+            highlight their charisma and energy. Notable brands that have
+            partnered with Wanni X Handi include Spotify, Heineken, Desperados,
+            Martell, Budweiser, Smirnoff, Guinness, and Femme Fest. In addition,
+            they have held residencies at prestigious clubs, further
+            establishing their reputation as vibrant and innovative performers.
+            These collaborations highlight the trust and recognition they have
+            earned for seamlessly aligning with brand identities, delivering
+            unmatched energy, and solidifying their status as influential
+            tastemakers. Their partnerships have also amplified their impact
+            within the music industry, cementing their position as dynamic
+            leaders in the field. Beyond their performances, Wanni X Handi are
+            deeply committed to championing women in music. Through their
+            platform, they actively support and uplift fellow female artists,
+            advocating for diversity and inclusivity across the entertainment
+            landscape. Their dedication to these causes underscores their role
+            as trailblazers, using their influence to inspire change and foster
+            empowerment within the industry and beyond. Wanni X Handi’s journey
+            exemplifies the perfect blend of talent, passion, and purpose,
+            making them a force to be reckoned with in both music and
+            entertainment.
+           </p>
         </div>
       </div>
     </div>
