@@ -6,6 +6,7 @@ const Footer = () => {
   return (
     <div className="flex border border-black justify-between py-8 px-40 max-sm:flex-col max-sm:px-20 max-sm:items-center">
       <p>&#169; Copyright 2024, WannixHandi</p>
+      <p>Contact us at: (+234) 08166017010</p>
       <div className="flex">
         <Link
           href="https://www.instagram.com/wannixhandi?igsh=MWFpdjFlZWJpYnN5Mg=="
