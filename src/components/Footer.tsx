@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { FaInstagram, FaTiktok } from "react-icons/fa";
+import { FaFacebookF, FaInstagram, FaTiktok } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 
 const Footer = () => {
@@ -14,6 +14,13 @@ const Footer = () => {
           className="p-2 hover:bg-gradient-to-r from-[#833ab4] via-[#fd1d1d] to-[#fcb045] hover:text-white"
         >
           <FaInstagram size={20}/>
+        </Link>
+        <Link
+          href="https://www.facebook.com/profile.php?id=100074646602635&mibextid=LQQJ4d"
+          target="_blank"
+          className="p-2 hover:bg-[#316ff6] hover:text-white"
+        >
+          <FaFacebookF size={20}/>
         </Link>
         <Link
           href="https://x.com/wannixhandi?s=21"
