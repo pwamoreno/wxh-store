@@ -109,13 +109,13 @@ const Navbar = () => {
             >
               Orders
             </Link>
-            {/* <Link
+            <Link
               href="/cart"
               className="flex items-center gap-3 border rounded-lg px-2 py-1 hover:bg-black hover:text-white"
             >
               <ShoppingCart />
               <p className="text-base-bold">Cart ({cart.cartItems.length})</p>
-            </Link> */}
+            </Link>
           </div>
         )}
 
