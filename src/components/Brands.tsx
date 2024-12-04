@@ -82,28 +82,28 @@ const Brands = () => {
       <div className="flex items-center justify-center py-8">
         <div className="max-w-screen-md md:w-2xl">
           <p className="px-10">
-            Wanni X Handi have rapidly established themselves as influential
+            Wanni x Handi have rapidly established themselves as influential
             figures in the global music and entertainment industry, renowned for
             their unique sound and electrifying performances. Their exceptional
             talent and dynamic stage presence have captured the attention of
             leading brands, resulting in high-profile collaborations that
             highlight their charisma and energy. Notable brands that have
-            partnered with Wanni X Handi include Spotify, Heineken, Desperados,
+            partnered with Wanni x Handi include Spotify, Heineken, Desperados,
             Martell, Budweiser, Smirnoff, Guinness, and Femme Fest. In addition,
             they have held residencies at prestigious clubs, further
-            establishing their reputation as vibrant and innovative performers.
+            establishing their reputation as vibrant and innovative performers.<br/>
             These collaborations highlight the trust and recognition they have
             earned for seamlessly aligning with brand identities, delivering
             unmatched energy, and solidifying their status as influential
             tastemakers. Their partnerships have also amplified their impact
             within the music industry, cementing their position as dynamic
-            leaders in the field. Beyond their performances, Wanni X Handi are
-            deeply committed to championing women in music. Through their
+            leaders in the field. Beyond their performances, Wanni x Handi are
+            deeply committed to championing women in music. <br/>Through their
             platform, they actively support and uplift fellow female artists,
             advocating for diversity and inclusivity across the entertainment
             landscape. Their dedication to these causes underscores their role
             as trailblazers, using their influence to inspire change and foster
-            empowerment within the industry and beyond. Wanni X Handi’s journey
+            empowerment within the industry and beyond. Wanni x Handi&#39;s journey
             exemplifies the perfect blend of talent, passion, and purpose,
             making them a force to be reckoned with in both music and
             entertainment.
