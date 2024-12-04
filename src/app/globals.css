@@ -19,3 +19,8 @@ body,
   width: fit-content;
   flex-wrap: nowrap;
 }
+
+p{
+  text-align: justify;
+  text-justify: inter-word;
+}
