@@ -1,12 +1,12 @@
 import Link from "next/link";
 import { FaFacebookF, FaInstagram, FaTiktok } from "react-icons/fa";
-import { FaXTwitter } from "react-icons/fa6";
+import { FaXTwitter, FaYoutube } from "react-icons/fa6";
 
 const Footer = () => {
   return (
     <div className="flex border border-black justify-between py-8 px-40 max-sm:flex-col max-sm:px-20 max-sm:items-center">
       <p>&#169; Copyright 2024, WannixHandi</p>
-      <p>Contact us at: (+234) 08166017010</p>
+      <p>Contact us at: iwantwannixhandi@gmail.com</p>
       <div className="flex">
         <Link
           href="https://www.instagram.com/wannixhandi?igsh=MWFpdjFlZWJpYnN5Mg=="
@@ -35,6 +35,13 @@ const Footer = () => {
           className="p-2 hover:bg-black hover:text-white"
         >
           <FaTiktok size={20} />
+        </Link>
+        <Link
+          href="https://youtube.com/@moreofwanniandhandi?si=mwN8T_ks2_aETepD"
+          target="_blank"
+          className="p-2 hover:bg-red-500 hover:text-white"
+        >
+          <FaYoutube size={20} />
         </Link>
       </div>
     </div>
